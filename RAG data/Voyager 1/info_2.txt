@@ -1,16 +1,7 @@
 In Depth: Voyager 1
-Nation	United States of America (USA)
-Objective(s)	Jupiter Flyby, Saturn Flyby
-Spacecraft	Voyager 1
-Spacecraft Mass	1,592 pounds (721.9 kilograms)
-Spacecraft Power	3 Multi-Hundred Watt Radioisotope Thermoelectric Generators (MHW-RTGs) stacked in a series on a boom, producing about 158 We each, at launch.
-Mission Design and Management	NASA / JPL
-Launch Vehicle	Titan IIIE-Centaur (TC-6 / Titan no. 23E-6 / Centaur D-1T)
-Launch Date and Time	Sept. 5, 1977 / 12:56:01 UT
-Key Dates	March 5, 1979: Jupiter flyby - closest approach
-Nov. 12, 1980: Saturn flyby - closest approach
-Feb.17, 1998: Became the most distant human-made object after overtaking NASA's Pioneer 10
-Jan. 1, 1990: Voyager Interstellar Mission (VIM) officially began
-Aug. 16, 2006: 100 astronomical units reached
-August 2012: Voyager 1 enters interstellar space
-Launch Site	Cape Canaveral, Florida / Launch Complex 41
+
+Voyager 1 is a historic deep space mission managed by NASA's Jet Propulsion Laboratory (JPL) in Pasadena, California. The spacecraft represents a monumental achievement for the United States in the exploration of the outer planets. Designed to conduct close-up flybys of Jupiter and Saturn, the spacecraft launched with a mass of 1,592 pounds (721.9 kilograms), which included 105 kilograms of advanced scientific instruments.
+
+To operate in the freezing, dark outer reaches of the solar system where solar power is insufficient, Voyager 1 was equipped with three Multi-Hundred Watt Radioisotope Thermoelectric Generators (MHW-RTGs). These RTGs, stacked in a series on a deployable boom, utilize the heat from the decay of Plutonium-238 to produce approximately 158 watts of electrical power each at launch.
+
+Voyager 1 was launched on September 5, 1977, from Launch Complex 41 at Cape Canaveral, Florida, aboard a Titan IIIE-Centaur launch vehicle. Its journey was marked by critical milestones. The probe made its closest approach to Jupiter on March 5, 1979, followed by its Saturn flyby on November 12, 1980. After successfully completing these planetary encounters, the spacecraft transitioned to the Voyager Interstellar Mission on January 1, 1990. On February 17, 1998, it overtook Pioneer 10 to become the most distant human-made object in existence. It passed the milestone of 100 astronomical units from the Sun on August 16, 2006, and officially entered interstellar space in August 2012.

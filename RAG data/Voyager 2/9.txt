@@ -1,4 +1,5 @@
-Launch and trajectory
-The Voyager 2 probe was launched on August 20, 1977, by NASA from Space Launch Complex 41 at Cape Canaveral, Florida, aboard a Titan IIIE/Centaur launch vehicle. Two weeks later, the twin Voyager 1 probe was launched on September 5, 1977. However, Voyager 1 reached both Jupiter and Saturn sooner, as Voyager 2 had been launched into a longer, more circular trajectory.[36][37]
+Launch and Trajectory Details
 
-Voyager 1's initial orbit had an aphelion of 8.9 AU (830 million mi; 1.33 billion km), just a little short of Saturn's orbit of 9.5 AU (880 million mi; 1.42 billion km). Whereas, Voyager 2's initial orbit had an aphelion of 6.2 AU (580 million mi; 930 million km), well short of Saturn's orbit.[38]
+Voyager 2 was launched on August 20, 1977, from Cape Canaveral, Florida, aboard a Titan IIIE-Centaur launch vehicle. Its twin, Voyager 1, was launched two weeks later on September 5, 1977. Despite its later launch, Voyager 1 reached Jupiter and Saturn sooner because it was placed on a shorter, more direct trajectory.
+
+Voyager 2 was launched on a longer, more circular orbit that kept its aphelion—its farthest point from the Sun—at 6.2 astronomical units, well short of Saturn's orbit, which allowed it to use a gravity assist at Jupiter to reach Saturn. In contrast, Voyager 1's initial orbit had an aphelion of 8.9 astronomical units, placing it closer to Saturn's orbit from the start. Voyager 1 overtook Voyager 2 in December 1977 as they traveled through the asteroid belt.

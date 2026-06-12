@@ -1,3 +1,5 @@
-Encounter with Neptune
-Further information: Exploration of Neptune
-Following a course correction in 1987, Voyager 2's closest approach to Neptune occurred on August 25, 1989.[60][36] Through repeated computerized test simulations of trajectories through the Neptunian system conducted in advance, flight controllers determined the best way to route Voyager 2 through the Neptune–Triton system. Since the plane of the orbit of Triton is tilted significantly with respect to the plane of the ecliptic; through course corrections, Voyager 2 was directed into a path about 4,950 km (3,080 mi) above the north pole of Neptune.[61][62] Five hours after Voyager 2 made its closest approach to Neptune, it performed a close fly-by of Triton, Neptune's largest moon, passing within about 40,000 km (25,000 mi)
+Voyager 2's Neptune Encounter
+
+On August 25, 1989, Voyager 2 conducted its final planetary encounter, flying past Neptune. Mission controllers routed the spacecraft close to Neptune's north pole, passing just 3,080 miles (4,950 kilometers) above the planet's cloud tops. This close trajectory allowed the spacecraft to use Neptune's gravity to bend its path southward toward Triton, Neptune's largest moon.
+
+Voyager 2 passed within 25,000 miles (40,000 kilometers) of Triton, capturing detailed images of its icy surface, which features a "cantaloupe terrain" and active nitrogen geysers. At Neptune, the spacecraft discovered five new moons, four rings, and a massive storm system called the Great Dark Spot, which featured winds of up to 1,500 miles per hour, the fastest winds recorded in the solar system.

@@ -1,9 +1,5 @@
 What is Voyager 2?
-NASA's Voyager 2 is the second spacecraft to enter interstellar space. On Dec. 10, 2018, the spacecraft joined its twin – Voyager 1 – as the only human-made objects to enter the space between the stars.
 
-Voyager 2 is the only spacecraft to study all four of the solar system's giant planets at close range.
-Voyager 2 discovered a 14th moon at Jupiter.
-Voyager 2 was the first human-made object to fly past Uranus.
-At Uranus, Voyager 2 discovered 10 new moons and two new rings.
-Voyager 2 was the first human-made object to fly by Neptune.
-At Neptune, Voyager 2 discovered five moons, four rings, and a "Great Dark Spot
+Voyager 2 is a deep space probe launched by NASA on August 20, 1977, to study the outer planets of the solar system. As a sister ship to Voyager 1, Voyager 2 was launched two weeks earlier but was placed on a longer, slower trajectory. On December 10, 2018, the spacecraft crossed the heliopause and entered interstellar space, joining Voyager 1 as the only human-made objects to reach the space between the stars.
+
+Voyager 2 holds a unique place in space exploration history: it is the only spacecraft to have visited all four of the solar system's outer giant planets—Jupiter, Saturn, Uranus, and Neptune—at close range. During its grand tour, the spacecraft made several major discoveries. At Jupiter, it identified a 14th moon. It was the first spacecraft to fly past Uranus, where it discovered 10 new moons and two rings. It was also the first to fly by Neptune, discovering five moons, four rings, and a giant storm system known as the "Great Dark Spot." Today, it continues to transmit data from interstellar space.

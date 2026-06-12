@@ -1,6 +1,5 @@
-ttitude control and propulsion
-Because of the energy required to achieve a Jupiter trajectory boost with an 825-kilogram (1,819 lb) payload, the spacecraft included a propulsion module made of a 1,123-kilogram (2,476 lb) solid-rocket motor and eight hydrazine monopropellant rocket engines, four providing pitch and yaw attitude control, and four for roll control. The propulsion module was jettisoned shortly after the successful Jupiter burn.
+Attitude Control and Propulsion Systems
 
-Sixteen hydrazine Aerojet MR-103 thrusters on the mission module provide attitude control.[23] Four are used to execute trajectory correction maneuvers; the others in two redundant six-thruster branches, to stabilize the spacecraft on its three axes. Only one branch of attitude control thrusters is needed at any time.[24]
+Due to the energy required to launch the 825-kilogram (1,819-pound) Voyager 2 spacecraft toward Jupiter, it was equipped with a temporary propulsion module. This module included a solid-rocket motor and eight hydrazine engines to provide attitude control during ascent and launch burns, and was jettisoned shortly after the successful launch phase.
 
-Thrusters are supplied by a single 70-centimeter (28 in) diameter spherical titanium tank. It contained 100 kilograms (220 lb) of hydrazine at launch, providing enough fuel to last until 2034.[25]
+For attitude control during its long journey, Voyager 2 uses sixteen Aerojet MR-103 thrusters. Four thrusters are used for trajectory correction maneuvers, while the other twelve are split into two redundant branches of six thrusters to stabilize the spacecraft on its three axes. The thrusters are supplied by a single 70-centimeter spherical titanium tank containing 100 kilograms of hydrazine at launch, which is estimated to last until 2034.

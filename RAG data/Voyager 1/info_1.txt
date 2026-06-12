@@ -1,7 +1,5 @@
 What is Voyager 1?
-Voyager 1 has been exploring our solar system since 1977. The probe is now in interstellar space, the region outside the heliopause, or the bubble of energetic particles and magnetic fields from the Sun. Voyager 1 was launched after Voyager 2, but because of a faster route it exited the asteroid belt earlier than its twin, and it overtook Voyager 2 on Dec. 15, 1977.
 
-Voyager 1 discovered a thin ring around Jupiter and two new Jovian moons: Thebe and Metis.
-At Saturn, Voyager 1 found five new moons and a new ring called the G-ring.
-Voyager 1 was the first spacecraft to cross the heliosphere, the boundary where the influences from outside our solar system are stronger than those from our Sun.
-Voyager 1 is the first human-made object to venture into interstellar space.
+Voyager 1 is a space probe launched by NASA on September 5, 1977, as part of the Voyager program. Its mission was designed to explore the outer solar system, specifically targeting Jupiter and Saturn. After completing its planetary flybys, Voyager 1 continued on a trajectory out of the solar system. In August 2012, it made history by crossing the heliopause and entering interstellar space, the vast region between the stars that lies beyond the Sun's magnetic and particle bubble. It became the first human-made object to venture into this uncharted frontier.
+
+Although launched sixteen days after its twin, Voyager 2, Voyager 1 followed a shorter and faster trajectory. This allowed it to exit the asteroid belt earlier and overtake Voyager 2 on December 15, 1977. During its primary mission, Voyager 1 made groundbreaking discoveries. At Jupiter, it discovered a thin planetary ring system and two new Jovian moons, Thebe and Metis. At Saturn, the probe identified five previously unknown moons and a new ring designated the G-ring. Today, Voyager 1 remains humanity's most distant active spacecraft, continuing to send back observations from interstellar space.

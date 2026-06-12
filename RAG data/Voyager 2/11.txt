@@ -1,3 +1,5 @@
-Encounter with Saturn
-Further information: Exploration of Saturn
-The closest approach to Saturn occurred at 03:24:05 UT on August 26, 1981.[45] When Voyager 2 passed behind Saturn, viewed from Earth, it uses its radio link to investigate Saturn's upper atmosphere, gathering data on both temperature and pressure. In the highest regions of the atmosphere, where the pressure was measured at 70 mbar (1.0 psi),[46] Voyager 2 recorded a temperature of 82 K (−191.2 °C; −312.1 °F). Deeper within the atmosphere, where the pressure was recorded to be 1,200 mbar (17 psi), the temperature rose to 143 K (−130 °C; −202 °F).[47] The spacecraft also observed that the north pole was approximately 10 °C (18 °F) cooler at 100 mbar (1.5 psi) than mid-latitudes, a variance potentially attributable to seasonal shifts
+Voyager 2's Saturn Encounter
+
+On August 26, 1981, Voyager 2 made its closest approach to Saturn. As it passed behind the planet, the spacecraft used its radio link to conduct an atmospheric occultation experiment, measuring how the radio signals were bent by Saturn's atmosphere to determine its temperature and pressure profiles.
+
+Onboard instruments measured a temperature of -191 degrees Celsius (-312 degrees Fahrenheit) at a pressure of 70 millibars in the upper atmosphere, rising to -130 degrees Celsius (-202 degrees Fahrenheit) deeper in the atmosphere at 1,200 millibars. The spacecraft observed that Saturn's north pole was about 10 degrees Celsius cooler than mid-latitudes, which scientists attributed to seasonal variations. The probe also studied Saturn's rings and moon systems, capturing high-resolution photos of Enceladus, Tethys, and Dione.

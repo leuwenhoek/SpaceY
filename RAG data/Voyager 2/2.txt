@@ -1,0 +1,5 @@
+In Depth: Voyager 2
+
+Voyager 2 is a highly successful outer-planet exploration spacecraft designed and constructed by NASA's Jet Propulsion Laboratory (JPL) in Pasadena, California. Launched as part of the United States' Voyager program, the probe's mission was to conduct close-range flybys of the outer solar system. Voyager 2 had a launch mass of 1,592 pounds (721.9 kilograms), carrying 105 kilograms of scientific instruments. Like Voyager 1, it is powered by three Multi-Hundred Watt Radioisotope Thermoelectric Generators (MHW-RTGs) that convert the decay heat of Plutonium-238 into electrical power.
+
+Voyager 2 was launched on August 20, 1977, from Cape Canaveral, Florida, aboard a Titan IIIE-Centaur launch vehicle. Its historic trajectory brought it to its closest approach at Jupiter on July 9, 1979, Saturn on August 26, 1981, Uranus on January 24, 1986, and Neptune on August 25, 1989. Following its planetary encounters, the probe transitioned to the Voyager Interstellar Mission. On November 5, 2018, Voyager 2 crossed the heliopause into interstellar space, where it continues to monitor the interstellar environment from billions of miles away.

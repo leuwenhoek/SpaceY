@@ -1,4 +1,5 @@
-On Feb. 17, 1998, Voyager 1 became the most distant human-made object in existence when — at a distance of 69.4 AU from the Sun — it “overtook” Pioneer 10.
-On Dec. 16, 2004, Voyager 1 reached the termination shock and entered the heliosheath.
-On Aug. 25, 2012, the spacecraft became the first to exit the heliosphere and begin measuring the interstellar environment. 
-Voyager 1 continues to communicate with NASA’s Deep Space Network and send data back from four still-functioning instruments — the cosmic ray telescope, the low-energy charged particles experiment, the magnetometer, and the plasma waves experiment.
+Entering Interstellar Space and Active Science Instruments
+
+Voyager 1 has traveled farther from Earth than any other human-made object. On February 17, 1998, at a distance of 69.4 astronomical units from the Sun, it overtook NASA's Pioneer 10 spacecraft to claim this record. As it continued its outward journey, the probe crossed the termination shock—the boundary where the solar wind abruptly slows down—on December 16, 2004, and entered the outer layer of the heliosphere known as the heliosheath. On August 25, 2012, Voyager 1 crossed the heliopause, leaving the Sun's magnetic influence behind and officially entering interstellar space.
+
+Even in this remote region, Voyager 1 continues to communicate with Earth via NASA's Deep Space Network. The spacecraft measures the properties of interstellar space using its remaining active instruments. These instruments include the Cosmic Ray Subsystem, which monitors high-energy galactic particles; the Low-Energy Charged Particles instrument, which measures lower-energy ions and electrons (and was deactivated in April 2026 to conserve power); the Magnetometer, which measures the local interstellar magnetic field; and the Plasma Wave Subsystem, which detects vibrations in the surrounding plasma.

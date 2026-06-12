@@ -1,2 +1,5 @@
-Background
-In the early space age, it was realized that a periodic alignment of the outer planets would occur in the late 1970s and enable a single probe to visit Jupiter, Saturn, Uranus, and Neptune by taking advantage of the then-new technique of gravity assists. NASA began work on a Grand Tour, which evolved into a massive project involving two groups of two probes each, with one group visiting Jupiter, Saturn, and Pluto and the other Jupiter, Uranus, and Neptune. The spacecraft would be designed with redundant systems to ensure survival throughout the entire tour. 
+Background and Gravity Assist Technique
+
+In the early years of the space age, scientists recognized that a rare geometric alignment of the outer planets would occur in the late 1970s. This alignment, which occurs only once every 175 years, would make it possible to send a single spacecraft to visit Jupiter, Saturn, Uranus, and Neptune by utilizing gravity assists.
+
+A gravity assist is a technique where a spacecraft uses the gravitational pull and orbital motion of a planet to alter its speed and trajectory. By flying close to a planet, the spacecraft gains velocity from the planet's orbital momentum, allowing it to "slingshot" to the next target. This technique cuts travel time to the outer solar system by years and reduces the amount of propellant the spacecraft must carry. NASA integrated this gravity assist concept into the design of the Voyager program to make the grand tour possible.

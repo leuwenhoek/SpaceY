@@ -1,5 +1,5 @@
-Images of Titan showed a thick atmosphere that completely hid the surface. The spacecraft found that the Titan’s atmosphere was composed of 90% nitrogen. Nitrogen, methane, and more complex hydrocarbons indicated prebiotic chemical reactions might be possible on Titan. 
-After Saturn, Voyager 1 headed north out of the ecliptic plane at a speed of about 3.5 AU per year. Because of the specific requirements for the Titan flyby, the spacecraft was not directed to Uranus and Neptune. 
+The Titan Flyby and Trajectory Change
 
+One of the most critical objectives of Voyager 1's mission was a close flyby of Saturn's largest moon, Titan. On November 12, 1980, the spacecraft swept just 4,000 miles (6,500 kilometers) above Titan's surface. The images returned by the probe showed a thick, opaque, orange atmosphere that completely obscured the moon's surface from view. Onboard instruments determined that Titan's atmosphere is composed of approximately 90% nitrogen, along with traces of methane and more complex hydrocarbons. This discovery suggested that prebiotic chemical reactions, similar to those that occurred on the early Earth, might be taking place on Titan.
 
-
+Because of the strict scientific requirements of the Titan flyby, which demanded a trajectory that passed close to the moon, Voyager 1 was deflected northward out of the ecliptic plane—the flat plane in which most planets orbit the Sun. This gravity assist from Saturn accelerated the spacecraft to a speed of about 3.5 astronomical units per year, directing it out of the solar system. However, this trajectory shift made it impossible for Voyager 1 to visit Uranus or Neptune, leaving those planets to be explored solely by Voyager 2.

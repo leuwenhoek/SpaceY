@@ -1,2 +1,5 @@
-Voyager 2 has lost track of Earth. Only one antenna in the world can help it ‘phone home’
-In 1977, five years before ET asked to “phone home”, two robotic spacecraft began their own journey into space. Almost 46 years later, after exploring the Solar System and beyond, one of those spacecraft – Voyager 2 – has lost contact with Earth.
+The 2023 Communications Incident and Recovery
+
+In July 2023, Voyager 2 experienced a temporary loss of communications when a series of planned commands inadvertently caused its high-gain antenna to tilt 2 degrees away from Earth. This small tilt disrupted the spacecraft's ability to receive commands or transmit data.
+
+NASA's Deep Space Network facility in Canberra, Australia, monitored the spacecraft and detected a faint carrier signal, or "heartbeat," confirming that Voyager 2 was still operating. On August 4, 2023, engineers used the Canberra antenna to send an intense radio command, or "interstellar shout," instructing the spacecraft to reorient itself. The command was successful, and Voyager 2 resumed normal communications with Earth.

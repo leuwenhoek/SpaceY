@@ -1,3 +1,5 @@
-Flyby of Saturn
-Main article: Exploration of Saturn
-The gravitational assist trajectories at Jupiter were successfully carried out by both Voyagers, and the two spacecraft went on to visit Saturn and its system of moons and rings. Voyager 1 encountered Saturn in November 1980, with the closest approach on November 12, 1980, when the space probe came within 124,000 kilometers (77,000 mi) of Saturn's cloud-tops. The space probe's cameras detected complex structures in the rings of Saturn, and its remote sensing instruments studied the atmospheres of Saturn and its giant moon Titan.[52]
+Scientific Discoveries at Saturn
+
+Voyager 1's flyby of Saturn in November 1980 provided an unprecedented look at the ringed planet and its environment. Onboard instruments conducted detailed studies of Saturn's upper atmosphere, measuring its temperature, pressure, and composition. The spacecraft revealed that Saturn's atmosphere features powerful wind storms, with velocities near the equator reaching up to 1,100 miles (1,770 kilometers) per hour, significantly faster than the winds observed on Jupiter.
+
+The probe's cameras also captured detailed structures within Saturn's rings, revealing thousands of individual ringlets and narrow gaps, such as the Cassini Division, which were previously thought to be empty. The spacecraft discovered that gravitational interactions with small "shepherd moons" help maintain the structure of the outer rings. Voyager 1 also detected a faint, diffuse outer ring, designated the G-ring, and photographed several moons, showing that Titan's dense atmosphere hides its surface, while moons like Enceladus display smooth, young plains.

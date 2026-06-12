@@ -1,6 +1,5 @@
-What are the Voyager missions?
-The Voyager program consists of two spacecraft: Voyager 1 and Voyager 2. Voyager 2 was actually launched first, in August 1977, but Voyager 1 was sent on a faster trajectory when it launched about two weeks later. They are the only two functioning spacecraft currently in interstellar space, beyond the environment controlled by the sun.
+Comparing the Voyager 1 and Voyager 2 Missions
 
-Voyager 2’s path took it past Jupiter in 1979, Saturn in 1981, Uranus in 1985, and Neptune in 1989. It is the only spacecraft to have visited Uranus or Neptune, and has provided much of the information that we use to characterize them now.
+The Voyager program consists of two identical spacecraft, Voyager 1 and Voyager 2, which were launched in 1977. While Voyager 2 was launched first, Voyager 1 was placed on a faster, more direct trajectory that allowed it to reach Jupiter and Saturn earlier.
 
-Because of its higher speed and more direct trajectory, Voyager 1 overtook Voyager 2 just a few months after they launched. It visited Jupiter in 1979 and Saturn in 1980. It overtook Pioneer 10 — the only other spacecraft in interstellar space thus far — in 1998 and is now the most distant artificial object from Earth.
+Voyager 2's trajectory was designed to visit all four giant outer planets, which required a longer flight path. Voyager 1's trajectory was optimized for a close flyby of Saturn's moon Titan, which deflected the spacecraft out of the ecliptic plane, preventing it from visiting Uranus or Neptune. As a result, Voyager 2 is the only spacecraft to have visited all four outer planets, while Voyager 1 remains the most distant human-made object.

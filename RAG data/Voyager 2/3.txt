@@ -1,4 +1,5 @@
-Results
-The two-spacecraft Voyager missions were designed to replace original plans for a “Grand Tour” of the planets that would have used four highly complex spacecraft to explore the five outer planets during the late 1970s.
+Results and Scaling of the Grand Tour
 
-NASA canceled the plan in January 1972 largely due to anticipated costs (projected at $1 billion) and instead proposed to launch only two spacecraft in 1977 to Jupiter and Saturn. The two spacecraft were designed to explore the two gas giants in more detail than the two Pioneers (Pioneers 10 and 11) that preceded them.
+The Voyager program was originally conceived in the late 1960s to execute the "Planetary Grand Tour," an ambitious project to send four complex spacecraft to visit the five outer planets in the late 1970s. However, in January 1972, NASA canceled the Grand Tour plan due to anticipated costs, which were projected to exceed $1 billion, and funding cuts from the U.S. government.
+
+Instead of the Grand Tour, NASA proposed a scaled-down mission to launch two Mariner-class spacecraft in 1977, focusing primarily on Jupiter and Saturn. Although the mission was scaled back, JPL engineers designed the two Voyager probes with high-reliability systems and structural redundancy. This foresight ensured that if the Jupiter and Saturn flybys were successful, the spacecraft would be capable of extending their journeys to explore Uranus and Neptune, which Voyager 2 ultimately achieved.

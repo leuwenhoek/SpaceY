@@ -1,2 +1,5 @@
-Voyager Golden Record
-Both spacecraft carry a 12-inch (30 cm) golden phonograph record that contains pictures and sounds of Earth, symbolic directions on the cover for playing the record, and data detailing the location of Earth.[33][29] The record is intended as a combination time capsule and an interstellar message to any civilization, alien or far-future human, that may recover either of the Voyagers. The contents of this record were selected by a committee that included Timothy Ferris and was chaired by Carl Sagan.[29]
+The Voyager Golden Record: Visuals and Selection Committee
+
+In addition to audio recordings, the Voyager Golden Record contains 115 images designed to provide a visual portrait of Earth and human civilization. These images include mathematical definitions, chemical formulas showing the building blocks of life, diagrams of human anatomy, photographs of landscapes, cities, animals, and people engaged in various activities. The images are encoded in analog format, and instructions on the record cover detail how to reconstruct them.
+
+The selection of the record's contents was managed by a committee chaired by astronomer Carl Sagan of Cornell University. The committee, which included science writer Timothy Ferris and artist Jon Lomberg, spent months gathering materials that would represent the best of humanity. The record also includes printed messages from U.S. President Jimmy Carter and UN Secretary-General Kurt Waldheim, expressing a message of peace and cooperation to any intelligence that might find the spacecraft in the future.

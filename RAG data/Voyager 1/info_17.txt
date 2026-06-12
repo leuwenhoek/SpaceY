@@ -1,3 +1,5 @@
-Launch and trajectory
-The Voyager 1 probe was launched on September 5, 1977, from Launch Complex 41 at the Cape Canaveral Air Force Station, aboard a Titan IIIE launch vehicle. The Voyager 2 probe had been launched two weeks earlier, on August 20, 1977. Despite being launched later, Voyager 1 reached both Jupiter[39] and Saturn sooner, following a shorter trajectory.[40]
-Voyager 1's launch almost failed because Titan's LR-91 second stage shut down prematurely, leaving 1,200 pounds (540 kg) of propellant unburned. Recognizing the deficiency, the Centaur stage's on-board computers ordered a burn that was far longer than planned in order to compensate. Centaur extended its own burn and was able to give Voyager 1 the additional velocity it needed.[41]
+Voyager 1's Launch and Trajectory Anomaly
+
+Voyager 1 was launched on September 5, 1977, from Cape Canaveral, Florida, aboard a Titan IIIE-Centaur launch vehicle. Although the launch was ultimately successful, it came very close to failure due to a hardware anomaly during ascent. The Titan booster's LR-91 second stage shut down prematurely, leaving 1,200 pounds (540 kilograms) of propellant unburned. This premature shutdown left the spacecraft short of the velocity needed to enter the correct trajectory.
+
+Fortunately, the Centaur upper stage's on-board computer detected the velocity deficit. The computer ordered the Centaur engine to burn longer than planned, consuming its own fuel reserves to compensate for the booster's short burn. The Centaur stage successfully delivered the additional velocity required, placing Voyager 1 on its trajectory to Jupiter. This event demonstrated the benefit of autonomous guidance systems in early deep space flight.

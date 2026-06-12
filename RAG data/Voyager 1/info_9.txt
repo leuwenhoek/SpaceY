@@ -1,3 +1,5 @@
-Voyager probes
-On March 4, 1977, NASA announced a competition to rename the mission, believing the existing name was not appropriate as the mission had differed significantly from previous Mariner missions. Voyager was chosen as the new name, referencing an earlier suggestion by William Pickering, who had proposed the name Navigator. Due to the name change occurring close to launch, the probes were still occasionally referred to as Mariner 11 and Mariner 12, or even Voyager 11 and Voyager 12.[17]
+The Renaming of the Voyager Mission
 
+During their development, the Voyager spacecraft were officially designated Mariner 11 and Mariner 12, as they were built using designs adapted from the successful Mariner series of planetary probes. However, as the design of the spacecraft and their scientific instruments evolved, they became significantly larger, heavier, and more advanced than any previous Mariner spacecraft. Recognizing these differences, NASA decided that the probes represented a new class of mission.
+
+On March 4, 1977, NASA announced a public competition to rename the project, believing that the Mariner designation was no longer appropriate. The name "Voyager" was ultimately selected, reflecting a suggestion originally made by JPL Director William Pickering, who had proposed "Navigator." Because the renaming took place just a few months before launch, some early mission documentation and press reports still referred to the spacecraft as Mariner 11 and Mariner 12.

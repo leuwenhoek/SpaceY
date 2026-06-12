@@ -1,5 +1,5 @@
-Interstellar mission
-Once its planetary mission was over, Voyager 2 was described as working on an interstellar mission, which NASA is using to find out what the Solar System is like beyond the heliosphere. As of September 2023, Voyager 2 is transmitting scientific data at about 160 bits per second.[70] Information about continuing telemetry exchanges with Voyager 2 is available from Voyager Weekly Reports.[71]
-Official NASA map of the Pioneer 10, Pioneer 11, Voyager 1, and Voyager 2 spacecraft's trajectories through the Solar System.
-NASA map showing trajectories of the Pioneer 10, Pioneer 11, Voyager 1, and Voyager 2 spacecraft.
-In 1992, Voyager 2 observed the nova V1974 Cygni in the far-ultraviolet, first of its kind. The further increase in the brightness at those wavelengths helped in the more detailed study of the nova.[72][73]
+The Interstellar Mission and Nova Cygni
+
+After completing its planetary flybys in 1989, Voyager 2 began its interstellar mission, designed to study the environment at the outer edge of the solar system and beyond. Today, the spacecraft continues to transmit scientific data from interstellar space.
+
+In 1992, Voyager 2 utilized its Ultraviolet Spectrometer (UVS) to observe the nova V1974 Cygni. This observation was the first time a nova had been observed in the far-ultraviolet spectrum, providing astrophysicists with unique data on the temperature and energy output of the stellar explosion. This demonstrated how the spacecraft's instruments could be repurposed for astronomical observations.

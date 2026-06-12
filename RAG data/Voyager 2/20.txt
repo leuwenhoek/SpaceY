@@ -1,8 +1,5 @@
-Through the Solar System and beyond
-NASA’s twin Voyager spacecraft – Voyager 1 and Voyager 2 – were designed to complete a “grand tour” of the Solar System, visiting the giant planets Jupiter, Saturn, Uranus and Neptune.
+The Deep Space Network and Interstellar Distances
 
-Throughout the billions of kilometres of their journeys, the Voyagers stayed in touch with Earth through the three antennas of the Deep Space Network. One is in Madrid, Spain; a second in Goldstone, California; and the third in Canberra.
+As the Voyager probes travel deeper into interstellar space, they maintain contact with Earth through NASA's Deep Space Network (DSN). The DSN consists of three main antenna complexes located in Goldstone, California; Madrid, Spain; and Canberra, Australia, positioned approximately 120 degrees apart around the Earth to ensure continuous coverage.
 
-Having completed their tasks in 1989, both Voyager 1 and 2 have long since left our Solar System behind. They are now exploring interstellar space – the space between the stars.
-
-Voyager 1 is currently 24 billion kilometres from home, with Voyager 2 not far behind at 20 billion kilometres.
+Voyager 1 is currently located over 24 billion kilometers (15 billion miles) from Earth, while Voyager 2 is over 20 billion kilometers (12 billion miles) away. At these vast distances, radio signals traveling at the speed of light take hours to reach the spacecraft, making real-time communications impossible and requiring high levels of autonomy from the onboard systems.

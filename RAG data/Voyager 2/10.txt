@@ -1,3 +1,5 @@
-Encounter with Jupiter
-Voyager 2's closest approach to Jupiter occurred at 22:29 UT on July 9, 1979.[3] It came within 570,000 km (350,000 mi) of the planet's cloud tops.[43] Jupiter's Great Red Spot was revealed as a complex storm moving in a counterclockwise direction. Other smaller storms and eddies were found throughout the banded clouds.[44]
-Voyager 2 returned images of Jupiter, as well as its moons Amalthea, Io, Callisto, Ganymede, and Europa.[3] During a 10-hour "volcano watch", it confirmed Voyager 1's observations of active volcanism on the moon Io, and revealed how the moon's surface had changed in the four months since the previous visit.[3] Together, the Voyagers observed the eruption of nine volcanoes on Io, and there is evidence that other eruptions occurred between the two Voyager fly-bys.[36]
+Voyager 2's Jupiter Encounter
+
+Voyager 2 made its closest approach to Jupiter on July 9, 1979, passing within 350,000 miles (570,000 kilometers) of the planet's cloud tops. Onboard cameras captured highly detailed images of Jupiter's atmosphere, revealing that the Great Red Spot is a complex, counterclockwise-rotating storm. The probe also mapped the atmospheric bands, capturing smaller eddies and storms.
+
+During the flyby, Voyager 2 photographed Jupiter's moons Amalthea, Io, Europa, Ganymede, and Callisto. The spacecraft conducted a 10-hour "volcano watch" on the moon Io, confirming Voyager 1's earlier discovery of active volcanism and showing how the volcanic features had changed in the four months between the two flybys. Together, the two probes observed nine erupting volcanoes on Io.

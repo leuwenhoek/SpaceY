@@ -1,2 +1,5 @@
-Spacecraft design
-Constructed by the Jet Propulsion Laboratory (JPL), Voyager 2, whose bus is shaped like a decagonal prism, included 16 hydrazine thrusters, three-axis stabilization, gyroscopes and celestial referencing instruments (a Sun sensor, and a Canopus star tracker) to maintain pointing of the high-gain antenna toward Earth. Collectively these instruments are part of the Attitude and Articulation Control Subsystem (AACS) along with redundant units of most instruments and 8 backup thrusters. The spacecraft also included 11 scientific instruments to study celestial objects as it traveled through space.[17]
+Voyager 2 Spacecraft Design and Systems
+
+Constructed by the Jet Propulsion Laboratory, Voyager 2 features a central decagonal prism bus that houses its electronics, propulsion tanks, and computers. To maintain its orientation in space, the spacecraft uses a three-axis stabilization system. This system is part of the Attitude and Articulation Control Subsystem (AACS), which processes inputs from gyroscopes, a Sun sensor, and a Canopus star tracker to monitor the spacecraft's attitude.
+
+The AACS controls pointing by firing small hydrazine thrusters, keeping the high-gain antenna oriented toward Earth. Voyager 2 was equipped with 11 scientific instruments, including imaging cameras, magnetometers, cosmic-ray detectors, and spectrometers. Most of these instruments are mounted on booms to prevent interference from the spacecraft's electronic systems, with the cameras mounted on a steerable scan platform.

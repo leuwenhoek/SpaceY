@@ -1,3 +1,5 @@
-Communications
-The uplink communications are executed via S-band microwave communications. The downlink communications are carried out by an X-band microwave transmitter on board the spacecraft, with an S-band transmitter as a back-up. All long-range communications to and from the two Voyagers have been carried out using their 3.7-meter (12 ft) high-gain antennas. The high-gain antenna has a beamwidth of 0.5° for X-band, and 2.3° for S-band.[46]: 17  (The low-gain antenna has a 7 dB gain and 60° beamwidth.)[46]: 17 
-Because of the inverse-square law in radio communications, the digital data rates used in the downlinks from the Voyagers have been continually decreasing the farther that they get from the Earth.
+Communications and the Deep Space Network
+
+Communications with the Voyager spacecraft are conducted using their prominent 3.7-meter (12-foot) high-gain parabolic antennas. Uplink commands from Earth are sent using S-band radio frequencies, while downlink data from the spacecraft is transmitted using X-band frequencies, with a backup S-band transmitter on board. The high-gain antenna has a narrow beamwidth of 0.5 degrees for X-band and 2.3 degrees for S-band, requiring precise pointing toward Earth.
+
+All long-range communications are received by the large antennas of NASA's Deep Space Network (DSN) located in Goldstone, Madrid, and Canberra. Because radio signal strength decreases with the square of the distance, the data rates from the spacecraft have dropped continuously as they travel farther from Earth. While Voyager 1 could transmit data at 115.2 kilobits per second from Jupiter, its transmission rate from interstellar space has dropped to a fraction of that, requiring the DSN to use large 70-meter dishes to capture the weak signals.
