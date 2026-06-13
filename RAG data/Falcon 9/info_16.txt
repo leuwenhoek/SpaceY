@@ -1,0 +1,5 @@
+Operational Crew Rotations and Commercial Spaceflight
+
+Following the success of Demo-2, SpaceX began regular operational crew rotations to the International Space Station under NASA's Crew Transportation Services contract. These missions, designated Crew-1 through Crew-8 and beyond, carry four astronauts at a time to the station for six-month scientific research stays.
+
+In addition to NASA flights, the Falcon 9 has opened up spaceflight to private citizens and commercial researchers. Missions such as Inspiration4 in 2021—the first all-civilian orbital flight—and the Axiom private astronaut missions utilize the same Falcon 9 and Crew Dragon system. This has expanded the orbital economy and allowed international space agencies to launch astronauts without relying on government-owned rockets.

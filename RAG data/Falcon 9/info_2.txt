@@ -1,0 +1,5 @@
+In Depth: Falcon 9
+
+The Falcon 9 is a two-stage launch vehicle built in the United States by SpaceX. In its current standard Block 5 configuration, the vehicle stands approximately 70 meters (229.6 feet) tall with a diameter of 3.7 meters (12 feet) and has a launch mass of roughly 549,000 kilograms (1,207,000 pounds). The structure is fabricated largely from high-strength aluminum-lithium alloy tanks and carbon-fiber composite structures.
+
+The rocket's lift capability varies depending on whether the first stage is recovered or expended. In fully expendable mode, Falcon 9 can carry up to 22,800 kilograms (50,265 pounds) of payload into Low Earth Orbit (LEO) and up to 8,300 kilograms (18,300 pounds) into a Geostationary Transfer Orbit (GTO). When the first stage is recovered, the payload capacity is optimized to approximately 18,500 kilograms to LEO and 5,500 kilograms to GTO. Propulsion is provided by rocket-grade kerosene (RP-1) and liquid oxygen (LOX), feeding nine Merlin 1D engines on the first stage and a single Merlin 1D Vacuum engine on the second stage.

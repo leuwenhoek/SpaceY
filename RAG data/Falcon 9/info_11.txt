@@ -1,0 +1,5 @@
+Payload Fairing Recovery and Reuse
+
+The payload fairing is the protective clamshell structure at the top of the Falcon 9 that shields satellites from aerodynamic forces and heating during launch. Once the rocket leaves the atmosphere, the fairing halves separate and fall back to Earth.
+
+To reduce costs, SpaceX recovers and reuses these fairings. Each half is equipped with cold-gas thrusters for attitude control and a steerable parafoil that deploys to slow its descent. Specialized recovery ships recover the fairing halves from the ocean surface after they splash down. By successfully reusing fairings, which cost approximately $6 million per flight to manufacture, SpaceX has further reduced the cost of commercial space launches.

@@ -1,0 +1,5 @@
+Landing Legs and Ground Support
+
+The landing legs on the Falcon 9 first stage are critical to its reusability. The booster is equipped with four retractable landing legs made from high-strength carbon-fiber and aluminum honeycomb structures. The legs are folded flat against the base of the rocket during launch and deploy outward using compressed helium just seconds before touchdown.
+
+The landing legs are designed to absorb the impact of landing, stabilizing the booster on both flat land and moving ocean platforms. The total mass of the landing legs is estimated to be approximately 2,000 kilograms. By using lightweight carbon composites, SpaceX minimized the weight penalty of carrying landing hardware, ensuring that the rocket retains a high payload capacity while still being reusable.

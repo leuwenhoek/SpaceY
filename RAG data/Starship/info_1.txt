@@ -1,0 +1,5 @@
+What is Starship?
+
+SpaceX's Starship is a fully reusable, two-stage-to-orbit super heavy-lift launch vehicle designed to transport cargo and crew into Earth orbit, to the Moon, to Mars, and beyond. The vehicle is the tallest and most powerful rocket ever built, designed to eventually replace SpaceX's Falcon 9 and Falcon Heavy launchers.
+
+Reusability is the core design element of the Starship system. Both the first-stage booster (Super Heavy) and the second-stage spacecraft (Starship) are designed to return to the launch site after flight, landing vertical. By achieving rapid and complete reusability, SpaceX aims to radically decrease launch costs and make interplanetary space travel commercially viable.

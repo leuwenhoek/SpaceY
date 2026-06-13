@@ -1,0 +1,5 @@
+The Raptor 3 Engine
+
+The Raptor 3 is the latest evolution in SpaceX's methane-fueled engine line, making its flight debut on the Flight 12 test launch on May 22, 2026. This version features a radically simplified exterior, with most of the complex propellant lines, sensors, and wiring integrated directly into the 3D-printed metal structure of the engine.
+
+Raptor 3 generates approximately 280 tons-force (2,750 kilonewtons) of thrust at sea level with a combustion chamber pressure of 350 bar. The engine weighs roughly 1,525 kilograms (dry mass), giving it an exceptional thrust-to-weight ratio of 183.6. It also achieves a specific impulse of 350 seconds in vacuum conditions, providing the high efficiency needed to carry massive payloads and perform vertical landing maneuvers on both Earth and the Moon.

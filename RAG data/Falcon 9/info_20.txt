@@ -1,0 +1,5 @@
+Legacy and the Transition to Starship
+
+The Falcon 9 has established a lasting legacy as one of the most successful and active rockets in spaceflight history. By demonstrating the feasibility of rapid booster reusability, it changed the economics of space exploration and enabled a new era of satellite deployment and orbital science.
+
+Beyond low Earth orbit, the Falcon 9 launches components and robotic precursors for NASA's Artemis program, including lunar landers and the Europa Clipper mission. As SpaceX continues to develop its fully reusable Starship launch vehicle, the Falcon 9 will serve as the transition platform, maintaining reliable crew and cargo transport to the ISS until the larger Starship is human-rated and operational.

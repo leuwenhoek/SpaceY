@@ -1,0 +1,5 @@
+In Depth: Starship Specifications
+
+The Starship launch vehicle consists of two stages: the Super Heavy booster at the bottom and the Starship spacecraft at the top. The combined stack stands approximately 121 meters (397 feet) tall with a diameter of 9 meters (30 feet). The entire vehicle is constructed from high-strength stainless steel 304L alloy, which provides excellent structural integrity at cryogenic launch temperatures and can withstand extreme heat during atmospheric reentry.
+
+The fully integrated Starship stack has a launch mass of approximately 5,000 metric tons (11 million pounds), mostly consisting of liquid methane and liquid oxygen propellants. In its fully reusable configuration, the rocket is designed to carry a payload of 100 to 150 metric tons (220,000 to 330,000 pounds) into Low Earth Orbit (LEO), making it the most capable launch system ever developed.

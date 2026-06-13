@@ -1,0 +1,5 @@
+The Raptor Engine Family
+
+The Raptor is a highly advanced rocket engine family developed by SpaceX to power the Starship launch system. Operating on a full-flow staged combustion cycle, the engine burns liquid methane (CH4) and liquid oxygen (LOX). This design cycle is highly efficient, utilizing dual gas-generator cycles to completely vaporize the propellants before they enter the combustion chamber.
+
+SpaceX has continuously improved the Raptor design. The original Raptor 1 engine generated about 185 tons-force of thrust. This was replaced by Raptor 2, which simplified the engine layout and increased sea-level thrust to approximately 230 tons-force. The newest version, Raptor 3, features a consolidated, highly integrated design that eliminates external plumbing and increases thrust even further, establishing the engine as a marvel of modern aerospace engineering.

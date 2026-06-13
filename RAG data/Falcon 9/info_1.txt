@@ -1,0 +1,5 @@
+What is Falcon 9?
+
+The Falcon 9 is a two-stage-to-orbit launch vehicle designed, manufactured, and operated by SpaceX. First launched on June 4, 2010, the rocket was developed to provide reliable and safe transport of satellites and cargo, and eventually humans, into Earth orbit. One of its most defining characteristics is its partial reusability, particularly the ability to land and reuse its first stage booster. This capability has revolutionized spaceflight by significantly lowering launch costs and increasing launch cadence.
+
+Falcon 9 is categorised as a medium-lift launcher. It has successfully flown hundreds of missions, deploying commercial satellites, scientific payloads, national security satellites, cargo capsules, and crewed spacecraft. It stands as a pivotal spacecraft in the modern commercial space age, serving as the workhorse for both private ventures and government space programs.

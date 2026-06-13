@@ -1,0 +1,5 @@
+Starship Integration at Launch Complex 39A
+
+In addition to the Starbase facility in Texas, SpaceX is constructing a second Starship launch pad at NASA's historic Launch Complex 39A (LC-39A) at the Kennedy Space Center in Florida. This pad shares the launch infrastructure that SpaceX uses for its Falcon 9 and Falcon Heavy launches.
+
+Integrating Starship at LC-39A is critical for NASA crewed missions, as it provides a direct launch site near Kennedy Space Center's astronaut integration facilities. The LC-39A Starship pad features a dedicated orbital launch mount, a Mechazilla-class launch and catch tower, and cryogenic propellant storage tanks, ensuring that SpaceX can support a high launch cadence from both Texas and Florida.

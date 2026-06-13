@@ -1,0 +1,5 @@
+Rocket Propellants: RP-1 and Subcooled Oxygen
+
+The Falcon 9 utilizes a propellant combination of rocket-grade kerosene (RP-1) and liquid oxygen (LOX). To maximize performance, SpaceX employs a unique technique: subcooling the propellants below their standard boiling points before loading them onto the rocket.
+
+Standard liquid oxygen is kept at around -183 degrees Celsius (-297 degrees Fahrenheit), but SpaceX chills it to -207 degrees Celsius (-340 degrees Fahrenheit). The RP-1 kerosene is also chilled to near-freezing temperatures. Chilling the propellants increases their density, allowing SpaceX to pack more fuel mass into the same physical tank volume. This extra fuel mass provides the engines with additional burn time, which is critical for carrying heavy payloads and reserving enough propellant for first-stage landing burns.

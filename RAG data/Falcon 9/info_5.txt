@@ -1,0 +1,5 @@
+The Merlin 1D Engine
+
+The Merlin 1D is a high-performance rocket engine developed by SpaceX for use on the Falcon 9 and Falcon Heavy launch vehicles. Operating on a gas-generator power cycle, the engine burns rocket-grade kerosene (RP-1) and liquid oxygen (LOX). It is widely regarded as one of the most efficient and reliable gas-generator engines ever built.
+
+At sea level, a single Merlin 1D engine generates approximately 845 kilonewtons (190,000 pounds-force) of thrust, which increases to about 981 kilonewtons (221,000 pounds-force) in a vacuum. A standout characteristic of the Merlin 1D is its exceptional thrust-to-weight ratio, which exceeds 180:1, making it one of the lightest and most powerful engines for its size. The engine is also highly throttleable, allowing SpaceX to adjust the thrust during descent and landing maneuvers.

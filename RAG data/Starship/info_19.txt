@@ -1,0 +1,5 @@
+Commercial Payloads and Starlink Deployment
+
+Starship is designed to launch massive payloads that exceed the capacity of all other current launch vehicles. One of its primary commercial objectives is the deployment of SpaceX's next-generation Starlink V2 satellites, which are too large and heavy to be launched in large numbers by the Falcon 9.
+
+To deploy these satellites, Starship features a specialized payload door mechanism, often called the 'pez dispenser'. The satellites are stacked vertically inside the payload bay and ejected one-by-one through a narrow slot. In addition to Starlink, Starship's massive 9-meter payload fairing allows it to launch large space telescopes, interplanetary science probes, and commercial lunar landers.

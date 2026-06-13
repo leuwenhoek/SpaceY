@@ -1,0 +1,5 @@
+NASA's Commercial Resupply Services Program
+
+The development and operational success of the Falcon 9 are closely tied to NASA's Commercial Resupply Services (CRS) program. After the retirement of the Space Shuttle, NASA contracted with commercial partners to transport cargo, scientific research, and supplies to the International Space Station.
+
+SpaceX began CRS cargo flights in 2012 using the Falcon 9 and the Cargo Dragon spacecraft. The Falcon 9 launches the Dragon capsule into low Earth orbit, where it maneuvers to dock with the ISS. The Dragon is uniquely valuable to NASA because, unlike other cargo vehicles that burn up in the atmosphere upon reentry, it is designed with a heat shield and parachutes to return safely to Earth, allowing scientists to retrieve experiments and return broken hardware for repair.

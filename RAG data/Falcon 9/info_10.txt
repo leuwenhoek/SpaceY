@@ -1,0 +1,5 @@
+Autonomous Spaceport Drone Ships
+
+When a Falcon 9 mission requires too much velocity to return to the launch site, the first-stage booster lands on an Autonomous Spaceport Drone Ship (ASDS). These drone ships are modified ocean barges equipped with thrusters, GPS, and a dynamic positioning system that allows them to hold a precise location in rough seas.
+
+SpaceX operates three active drone ships: Of Course I Still Love You, Just Read the Instructions, and A Shortfall of Gravitas. Once the booster lands, a remotely operated robot called the Octagrabber crawls out from a protective bay, drives under the rocket, and clamps onto its hold-down brackets. This secures the booster to the deck, preventing it from tipping over due to ocean swells as the ship returns to port.

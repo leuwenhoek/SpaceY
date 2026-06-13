@@ -1,0 +1,5 @@
+The First Stage Thrust Structure and the Octaweb
+
+The first stage of the Falcon 9 is powered by nine Merlin 1D engines arranged in a circular configuration called the Octaweb, with eight engines surrounding a single central engine. This structure replaced the original 3x3 grid layout used on the initial Falcon 9 v1.0, simplifying the manufacturing process and improving structural efficiency.
+
+The Octaweb houses and protects the engines, shielding them from aerodynamic forces and high temperatures during ascent and reentry. A key engineering advantage of the Octaweb is its engine containment capability. The structure is designed to isolate each engine's compartment, preventing a failure or explosion in one engine from damaging the surrounding engines. This engine-out capability ensures that the Falcon 9 can safely complete its mission even if one of the first-stage engines shuts down prematurely.

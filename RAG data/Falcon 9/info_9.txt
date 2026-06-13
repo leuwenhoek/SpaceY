@@ -1,0 +1,5 @@
+Reusability Flight Profile: RTLS versus ASDS
+
+SpaceX employs two primary landing profiles for recovering the Falcon 9 first stage: Return to Launch Site (RTLS) and Autonomous Spaceport Drone Ship (ASDS) landings. The choice depends on the payload weight and target orbit, which dictate how much fuel can be reserved for landing maneuvers.
+
+In an RTLS landing, the booster performs a boostback burn shortly after separation, reversing its direction to fly back toward the coast. It then performs an entry burn to slow down and protect itself from atmospheric heating, followed by a final landing burn to touch down on a landing pad (LZ-1 or LZ-2) near the launch site. If the mission requires more performance, the booster skips the boostback burn and flies a ballistic arc to land on an unmanned drone ship positioned hundreds of miles downrange in the ocean.

@@ -1,0 +1,5 @@
+The Transition to V3 Starship Hardware
+
+In early 2026, SpaceX transitioned its production and testing to the third-generation Starship hardware, known as V3. The V3 vehicle features significant design upgrades to increase structural strength and payload performance.
+
+The V3 design stretches the propellant tanks of both the booster and the Ship, increasing the total propellant capacity to over 5,000 metric tons. The Ship upper stage's length was increased to accommodate larger payload volumes. V3 also integrates the new, simplified Raptor 3 engines, which eliminate external plumbing and improve reliability, while providing a significant boost in thrust compared to the earlier V1 and V2 models.

@@ -1,0 +1,5 @@
+The NASA Human Landing System Contract
+
+Under NASA's Artemis program, which aims to return humans to the Moon, SpaceX was selected to develop the Human Landing System (HLS) for the crewed lunar landing missions. The Starship HLS is a specialized variant of the Starship upper stage, optimized for operations in the airless lunar environment.
+
+The initial contract, awarded in 2021, selected Starship HLS for the Artemis III mission, which will land the first astronauts on the Moon since the Apollo program. In 2022, NASA exercised Option B of the contract, securing a second crewed demonstration landing for the Artemis IV mission. The Starship HLS configuration removes the heat shield and aerodynamic flaps, which are unnecessary on the Moon, and adds high-mounted landing thrusters to avoid kicking up lunar dust during touchdown.

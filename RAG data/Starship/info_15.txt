@@ -1,0 +1,5 @@
+Early Suborbital Prototype Flight Tests
+
+Before launching the integrated orbital-class stack, SpaceX conducted a series of suborbital test flights using early Starship prototypes between 2019 and 2021. The program began with 'Starhopper', a single-engine test vehicle that performed a 150-meter hop in August 2019.
+
+This was followed by full-scale prototypes, starting with SN8 in December 2020. These suborbital prototypes flew to altitudes of approximately 10 kilometers to test the horizontal aerodynamic descent and the flip maneuver. While SN8, SN9, and SN10 exploded during their landing attempts, they validated the flap control systems. In May 2021, the SN15 prototype successfully performed the horizontal descent, flipped vertical, and executed a clean landing, marking a major milestone for the program.

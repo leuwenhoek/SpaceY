@@ -1,0 +1,5 @@
+Development History of Falcon 9
+
+SpaceX began development of the Falcon 9 in the mid-2000s, building upon the lessons learned from its first orbital rocket, the light-lift Falcon 1. The company initially conceived a mid-sized Falcon 5 launcher, but decided to bypass it in favor of the much larger Falcon 9 to meet the payload demands of commercial satellite operators and NASA's ISS resupply program.
+
+The rocket's development was funded in part by NASA's Commercial Orbital Transportation Services (COTS) program, which sought to establish commercial alternatives for ISS supply runs. The first flight of Falcon 9, version 1.0, took place on June 4, 2010, from Space Launch Complex 40 at Cape Canaveral. The flight was a success, placing a dummy test payload into orbit and validating the fundamental design, including the multi-engine first stage and the Merlin engine design.

@@ -1,0 +1,5 @@
+Aerodynamic Descent and the Belly Flop Landing Profile
+
+The Starship upper stage uses a unique, horizontal landing profile to return to Earth. Instead of entering nose-first or tail-first, the Ship reenters the atmosphere horizontally at a 60-degree angle, exposing the large surface area of its flat underbelly to create maximum aerodynamic drag.
+
+This horizontal descent is often called the 'belly flop' maneuver. As the Ship falls through the atmosphere, its flight computer continuously actuates the four aerodynamic flaps to control its pitch, yaw, and roll, steering the vehicle toward the landing site. Just seconds before touchdown, the Raptor engines ignite and perform a rapid flip burn, pivoting the Ship from a horizontal orientation to a vertical position to execute a soft, landing burn.

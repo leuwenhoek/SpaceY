@@ -1,0 +1,5 @@
+The Starship Upper Stage Spacecraft
+
+The second stage of the launch system is the Starship spacecraft, also referred to simply as the Ship. Standing 50 meters (164 feet) tall, the Ship acts as the payload carrier and crew transport vehicle, designed to operate in orbit and make landings on other celestial bodies.
+
+The spacecraft is powered by six Raptor engines: three standard sea-level engines for flight steering and landing burns, and three Raptor Vacuum engines equipped with larger expansion nozzles for operation in the vacuum of space. For aerodynamic steering during reentry, the Ship features four movable flaps—two forward flaps near the nose cone and two larger aft flaps near the base. These flaps act as wings, controlling the vehicle's attitude during its horizontal descent.

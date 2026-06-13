@@ -1,0 +1,5 @@
+Interplanetary Exploration and the Mars Vision
+
+The ultimate goal of the Starship development program is to enable the colonization of Mars. SpaceX founder Elon Musk has stated that a fleet of Starships will be required to transport the millions of tons of cargo, building materials, and personnel needed to establish a self-sustaining city on the red planet.
+
+To support this vision, SpaceX intends to launch cargo-only Starship missions to Mars during the planetary alignment windows that occur every 26 months. These cargo missions will deliver power systems, mining equipment, and Sabatier fuel plants. Once the surface infrastructure is verified, crewed Starship missions will depart Earth orbit, utilizing orbital refuels to embark on the multi-month journey, marking the first steps toward making humanity a multi-planetary species.

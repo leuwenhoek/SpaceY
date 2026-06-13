@@ -1,0 +1,5 @@
+The Starship Thermal Protection System
+
+During atmospheric reentry, the Starship upper stage enters the atmosphere at speeds exceeding 27,000 kilometers per hour, exposing the hull to temperatures of up to 1,400 degrees Celsius (2,600 degrees Fahrenheit). To protect the stainless steel structure, the windward side of the Ship is covered in a thermal protection system.
+
+This heat shield is composed of approximately 18,000 hexagonal black ceramic tiles. The hexagonal shape is an intentional design choice, as it prevents high-speed plasma from finding a straight path between the tiles to the metal hull. The tiles are mounted mechanically to the hull using metal studs and a flexible backing layer, allowing the steel tanks to expand and contract under pressure and temperature extremes without cracking the tiles.

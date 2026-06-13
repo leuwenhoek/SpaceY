@@ -1,0 +1,5 @@
+In-Flight Anomalies and Failure Investigations
+
+Despite its high reliability, the Falcon 9 has experienced two major failures during its operational history. In June 2015, during the CRS-7 cargo mission, a Falcon 9 rocket broke apart approximately two minutes into flight. The failure was traced to a faulty steel strut in the second stage's liquid oxygen tank, which snapped under high acceleration, causing a pressure vessel to rupture.
+
+In September 2016, during a pre-launch static fire test for the AMOS-6 satellite, a Falcon 9 exploded on the launch pad. The investigation revealed that a composite carbon-overwrapped pressure vessel (COPV) inside the liquid oxygen tank failed due to oxygen accumulation between the carbon wrap and the aluminum liner. In response, SpaceX redesigned the COPVs and updated its propellant loading procedures, restoring the rocket to flight with enhanced safety margins.

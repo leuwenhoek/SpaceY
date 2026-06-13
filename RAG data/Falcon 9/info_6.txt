@@ -1,0 +1,5 @@
+The Second Stage and the Merlin Vacuum Engine
+
+The second stage of the Falcon 9 is responsible for delivering the payload into its final target orbit after the first stage has separated. Structurally, it is a shorter version of the first stage, made from the same aluminum-lithium alloy and using the same flight control systems. This similarity in design and materials simplifies manufacturing and reduces costs.
+
+Propulsion is provided by a single Merlin 1D Vacuum (MVacD) engine. The MVacD is a specialized variant of the standard Merlin 1D, equipped with a significantly larger, expanded niobium-alloy exhaust nozzle to maximize efficiency in the vacuum of space. The engine produces approximately 981 kilonewtons (221,000 pounds-force) of thrust. The second stage also houses attitude control thrusters using cold nitrogen gas to adjust orientation in orbit, and holds the payload integration systems and flight computers.

@@ -1,0 +1,5 @@
+Liquid Methane and Liquid Oxygen: Methalox Propellant
+
+Unlike traditional rockets that burn RP-1 kerosene or liquid hydrogen, the Starship system uses a liquid methane and liquid oxygen propellant combination, collectively known as methalox. Methane burns cleaner than kerosene, leaving virtually no soot deposits inside the engines. This clean combustion is critical for rapid engine reuse, allowing SpaceX to fly engines repeatedly with minimal refurbishment.
+
+Methane also offers a major advantage for deep-space exploration: it can be manufactured on Mars. By utilizing the Sabatier process, a future Mars mission could combine carbon dioxide from the Martian atmosphere with water ice mined from the soil to produce methane and oxygen. This In-Situ Resource Utilization (ISRU) capability ensures that a Starship landing on Mars can refuel itself for the return journey back to Earth.

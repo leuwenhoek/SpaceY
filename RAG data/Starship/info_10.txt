@@ -1,0 +1,5 @@
+The Mechazilla Launch and Catch System
+
+To eliminate the weight and complexity of landing legs on the Super Heavy booster and the Starship upper stage, SpaceX designed a revolutionary catch landing system at Starbase. The system uses the launch tower itself, nicknamed 'Mechazilla', to catch the descending vehicles mid-air.
+
+The Mechazilla tower is equipped with two massive mechanical arms, known as the 'chopsticks'. During a landing attempt, the booster or Ship flies back to the launch site, decelerating to a hover next to the tower. The chopstick arms then close around the vehicle's structural lift pins, catching it before it touches the ground. The arms then place the rocket back onto the launch mount, allowing for rapid inspection, refueling, and relaunch.

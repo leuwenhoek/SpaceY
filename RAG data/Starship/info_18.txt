@@ -1,0 +1,5 @@
+The Historic Flight 12 Mission
+
+On May 22, 2026, SpaceX conducted the Flight 12 mission, marking the inaugural flight of the V3 Starship and Super Heavy booster. Launched from Starbase in Texas, Flight 12 was the first mission to utilize the simplified Raptor 3 engines on both stages.
+
+The Flight 12 mission was a major success. The Super Heavy booster performed a flawless launch and was successfully caught by the Mechazilla chopstick arms back at the launch site. The Starship upper stage reached its target orbit, performed simulated orbital maneuvers, and executed a controlled reentry, splashdown, and vertical landing burn in the Indian Ocean, validating the new V3 structural upgrades and the Raptor 3 propulsion systems.

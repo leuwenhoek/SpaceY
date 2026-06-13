@@ -1,0 +1,5 @@
+Orbital Propellant Refueling and Refills
+
+To send heavy payloads to the Moon or Mars, Starship must overcome the limitations of the rocket equation by refueling in Earth orbit. Because launching from Earth consumes most of Starship's propellant, the spacecraft cannot carry enough fuel to reach deep space on its own.
+
+SpaceX's architecture utilizes a series of tanker Starship flights to launch propellants into a low Earth orbit depot. Once the depot is filled, the primary deep-space Starship docks with the depot and transfers cryogenic liquid methane and liquid oxygen into its tanks. This orbital refueling capability allows the deep-space Starship to depart Earth orbit with full tanks, enabling it to transport massive payloads and crew directly to the lunar surface or Mars.

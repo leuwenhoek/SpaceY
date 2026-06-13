@@ -1,0 +1,5 @@
+Grid Fins and Aerodynamic Steering
+
+To guide the first stage booster back through Earth's atmosphere for landing, the Falcon 9 is equipped with four deployable grid fins mounted near the top of the booster. These grid fins are folded flat against the fuselage during launch and deploy shortly after stage separation.
+
+Each grid fin resembles a waffle-like structure and acts as an aerodynamic control surface. On modern Block 5 boosters, the grid fins are fabricated from single pieces of cast titanium, which can withstand the extreme heat of reentry without requiring thermal shielding. The fins steer the booster during its high-speed descent, working in tandem with cold-gas nitrogen thrusters that control the rocket's attitude in the vacuum of space before it enters the denser layers of the atmosphere.

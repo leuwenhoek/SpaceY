@@ -1,0 +1,5 @@
+The Super Heavy First-Stage Booster
+
+The first stage of the Starship system is the Super Heavy booster. Standing 71 meters (233 feet) tall, the booster is responsible for providing the initial thrust required to launch the combined stack off the launch pad and through the thickest layers of the atmosphere.
+
+Super Heavy is powered by 33 Raptor engines, which collectively generate over 74 meganewtons (16.7 million pounds-force) of thrust, more than double the thrust of the Saturn V moon rocket. The booster is equipped with four steel grid fins near the top to control its descent through the atmosphere. Unlike the Falcon 9 booster, Super Heavy does not use landing legs; instead, it is designed to be caught mid-air by the launch tower's mechanical arms.

@@ -1,0 +1,5 @@
+Integrated Flight Test Campaigns: IFT-1 through IFT-5
+
+SpaceX transitioned to orbital-class testing in 2023 with the Integrated Flight Test (IFT) campaigns. The first flight, IFT-1, launched in April 2023, but suffered engine failures and a loss of control, resulting in an in-flight termination. IFT-2, launched in November 2023, successfully demonstrated hot-staging—where the second-stage engines ignite while still attached to the booster—before both stages were lost.
+
+In March 2024, IFT-3 successfully reached orbital velocity and demonstrated payload door operation and propellant transfer tests. Subsequent flights, including IFT-4 and IFT-5, demonstrated successful controlled splashdowns of both the Super Heavy booster in the Gulf of Mexico and the Starship upper stage in the Indian Ocean, proving the heat shield's effectiveness.

@@ -1,0 +1,5 @@
+Starlink Deployments and High Launch Cadence
+
+The Falcon 9 has achieved an unprecedented launch rate, driven largely by SpaceX's deployment of its Starlink internet satellite constellation. A single Falcon 9 launch typically carries approximately 22 to 60 Starlink satellites into low Earth orbit.
+
+To support these missions, SpaceX developed a flat-panel satellite design and a customized deployment dispenser. Once in orbit, the second stage releases the satellites in a single stack, which gradually separate and use krypton-fueled ion thrusters to raise themselves to their operational altitudes. The frequent Starlink launches have allowed SpaceX to refine its booster turnaround procedures, establishing record-breaking flight rates and demonstrating the viability of rapid rocket reuse.
