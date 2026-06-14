@@ -1,7 +1,6 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import Explore from "@/components/Explore";
-import AboutDeveloper from "@/components/AboutDeveloper";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -16,9 +15,6 @@ export default function Home() {
 
         {/* Feature Explore section */}
         <Explore />
-
-        {/* About Developer section */}
-        <AboutDeveloper />
       </main>
 
       {/* Minimalist Footer */}
