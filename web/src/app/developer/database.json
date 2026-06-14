@@ -1,0 +1,12 @@
+[
+  {
+    "name": "SpaceY Mission Archives Vector DB",
+    "link": "https://archives.spacey.io",
+    "description": "Primary high-dimensional vector index containing historical mission logs, pilot journals, and spacecraft specifications."
+  },
+  {
+    "name": "Apollo Telemetry Historical Data",
+    "link": "https://telemetry.spacey.io",
+    "description": "Time-series database containing flight telemetry, trajectory readings, and sensor logs from Apollo-era test flights."
+  }
+]
