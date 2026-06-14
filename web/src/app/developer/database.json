@@ -6,12 +6,12 @@
   },
   {
     "name": "predict droughts using weather & soil data",
-    "link": "https://www.kaggle.com/datasets/cdminix/predict-droughts-using-weather-soil-data",
+    "link": "https://www.kaggle.com/datasets/cdminix/us-drought-meteorological-data",
     "description": "predicting continental us drought levels using meteorological & soil data."
   },
   {
     "name": "world cities database",
-    "link": "https://www.kaggle.com/datasets/juanmah/world-cities-database",
+    "link": "https://www.kaggle.com/datasets/juanmah/world-cities",
     "description": "accurate and up-to-date database of the world's cities and towns"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "name": "mars2020-image-catalogue",
-    "link": "https://www.kaggle.com/datasets/sakethramanujam/mars2020-image-catalogue",
+    "link": "https://www.kaggle.com/datasets/sakethramanujam/mars2020imagecatalogue",
     "description": "list of all images from nasa/jpl website"
   },
   {
@@ -46,12 +46,12 @@
   },
   {
     "name": "💧 global geospatial hydrological database",
-    "link": "https://www.kaggle.com/datasets/abireltaief/global-geospatial-hydrological-database",
+    "link": "https://www.kaggle.com/datasets/abireltaief/-global-geospatial-hydrological-database",
     "description": "rivers, lakes, watersheds (hydrographic basins)…"
   },
   {
     "name": "ai/ml with orbital elements of near-earth comets",
-    "link": "https://www.kaggle.com/datasets/emirhanai/aiml-with-orbital-elements-of-near-earth-comets",
+    "link": "https://www.kaggle.com/datasets/emirhanai/aiml-with-orbital-elements-of-nearearth-comets",
     "description": "predictions the year of the orbital elements of near-earth comets - artificial i"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "name": "global land-ocean temperature index from 1880-2021",
-    "link": "https://www.kaggle.com/datasets/prasertk/global-land-ocean-temperature-index-from-1880-2021",
+    "link": "https://www.kaggle.com/datasets/prasertk/global-landocean-temperature-index",
     "description": "nasa's goddard institute for space studies (giss)"
   },
   {
