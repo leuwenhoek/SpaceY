@@ -65,8 +65,8 @@ const INITIAL_MOCK_SESSIONS: ChatSession[] = [
 ];
 
 // Apple/Linear Easing Transition (No Bounce)
-const transitionSettings: any = {
-  ease: [0.16, 1, 0.3, 1],
+const transitionSettings = {
+  ease: [0.16, 1, 0.3, 1] as [number, number, number, number],
   duration: 0.6,
 };
 

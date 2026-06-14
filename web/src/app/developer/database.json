@@ -1,12 +1,112 @@
 [
   {
-    "name": "SpaceY Mission Archives Vector DB",
-    "link": "https://archives.spacey.io",
-    "description": "Primary high-dimensional vector index containing historical mission logs, pilot journals, and spacecraft specifications."
+    "name": "temperature change",
+    "link": "https://www.kaggle.com/datasets/sevgisarac/temperature-change",
+    "description": "global warming, temperature change, climate change"
   },
   {
-    "name": "Apollo Telemetry Historical Data",
-    "link": "https://telemetry.spacey.io",
-    "description": "Time-series database containing flight telemetry, trajectory readings, and sensor logs from Apollo-era test flights."
+    "name": "predict droughts using weather & soil data",
+    "link": "https://www.kaggle.com/datasets/cdminix/predict-droughts-using-weather-soil-data",
+    "description": "predicting continental us drought levels using meteorological & soil data."
+  },
+  {
+    "name": "world cities database",
+    "link": "https://www.kaggle.com/datasets/juanmah/world-cities-database",
+    "description": "accurate and up-to-date database of the world's cities and towns"
+  },
+  {
+    "name": "asteroid dataset",
+    "link": "https://www.kaggle.com/datasets/sakhawat18/asteroid-dataset",
+    "description": "nasa jpl asteroid dataset"
+  },
+  {
+    "name": "global sea level 1993 - 2021",
+    "link": "https://www.kaggle.com/datasets/kkhandekar/global-sea-level-1993-2021",
+    "description": "global sea level data from 1993 to 2021"
+  },
+  {
+    "name": "mars2020-image-catalogue",
+    "link": "https://www.kaggle.com/datasets/sakethramanujam/mars2020-image-catalogue",
+    "description": "list of all images from nasa/jpl website"
+  },
+  {
+    "name": "nasa - nearest earth objects",
+    "link": "https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects",
+    "description": "a cumulative data for nearest earth objects by nasa"
+  },
+  {
+    "name": "astronomy picture of the day",
+    "link": "https://www.kaggle.com/datasets/melcore/astronomy-picture-of-the-day",
+    "description": "700+ public domain image from apod by nasa"
+  },
+  {
+    "name": "near earth objects observed by nasa(1900-2021)",
+    "link": "https://www.kaggle.com/datasets/ramjasmaurya/near-earth-objects-observed-by-nasa1900-2021",
+    "description": "dataset is about the neos which past or will pass through the earth"
+  },
+  {
+    "name": "💧 global geospatial hydrological database",
+    "link": "https://www.kaggle.com/datasets/abireltaief/global-geospatial-hydrological-database",
+    "description": "rivers, lakes, watersheds (hydrographic basins)…"
+  },
+  {
+    "name": "ai/ml with orbital elements of near-earth comets",
+    "link": "https://www.kaggle.com/datasets/emirhanai/aiml-with-orbital-elements-of-near-earth-comets",
+    "description": "predictions the year of the orbital elements of near-earth comets - artificial i"
+  },
+  {
+    "name": "fireballs/bolides (1988- april 2022)",
+    "link": "https://www.kaggle.com/datasets/ramjasmaurya/fireballsbolides-1988-april-2022",
+    "description": "fireballs/bolides detected by nasa from 1988-2022"
+  },
+  {
+    "name": "global land-ocean temperature index from 1880-2021",
+    "link": "https://www.kaggle.com/datasets/prasertk/global-land-ocean-temperature-index-from-1880-2021",
+    "description": "nasa's goddard institute for space studies (giss)"
+  },
+  {
+    "name": "nasa_extra_vehicular_activity",
+    "link": "https://www.kaggle.com/datasets/jarredpriester/nasa-extra-vehicular-activity",
+    "description": "activities done by astronauts, cosmonauts outside a spacecraft beyond the earth"
+  },
+  {
+    "name": "mars surface images",
+    "link": "https://www.kaggle.com/datasets/markmbaum/mars-surface-images",
+    "description": "thumbnail images and metadata from the hirise camera"
+  },
+  {
+    "name": "current antarctic large iceberg positions",
+    "link": "https://www.kaggle.com/datasets/joelhanson/current-antarctic-large-iceberg-positions",
+    "description": "current antarctic large iceberg positions derived from ascat and oscat-2"
+  },
+  {
+    "name": "nasa project; marine debris machine learning",
+    "link": "https://www.kaggle.com/datasets/emirhanai/nasa-project-marine-debris-machine-learning",
+    "description": "nasa project; plastic marine debris classification-machine learning software"
+  },
+  {
+    "name": "martian/lunar crater detection dataset",
+    "link": "https://www.kaggle.com/datasets/lincolnzh/martianlunar-crater-detection-dataset",
+    "description": "image dataset for crater detection on mars/moon surface"
+  },
+  {
+    "name": "barcelona_atmosphere_data",
+    "link": "https://www.kaggle.com/datasets/veronicataipe/barcelona-atmosphere-data",
+    "description": "temperature and wind over barcelona with nasa's power"
+  },
+  {
+    "name": "usa+california wildfire data (2000 - 03/25/2022)",
+    "link": "https://www.kaggle.com/datasets/avkashchauhan/usacalifornia-wildfire-data-2000-03252022",
+    "description": "usa (7.1m) and ca (1.1m) daily wildfire dataset from nasa website"
+  },
+  {
+    "name": "nasa funded technology development project list",
+    "link": "https://www.kaggle.com/datasets/jasonsamraj/nasa-funded-technology-development-project-list",
+    "description": "nan"
+  },
+  {
+    "name": "nasa website data",
+    "link": "https://www.kaggle.com/datasets/djaouadnm/nasa-website-data",
+    "description": "server logs from august 1995."
   }
 ]

@@ -16,8 +16,8 @@ import Link from "next/link";
 import databases from "./database.json";
 
 // Apple/Linear Easing Transition
-const transitionSettings: any = {
-  ease: [0.16, 1, 0.3, 1],
+const transitionSettings = {
+  ease: [0.16, 1, 0.3, 1] as [number, number, number, number],
   duration: 0.6,
 };
 
